@@ -1,4 +1,4 @@
-# cloud-1
+# old cloud-1
 Introduction to cloud infrastructure
 Résumé: This subject will make you build your first simple cloud infrastructure.
 
